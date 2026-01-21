@@ -29,7 +29,7 @@
     --achievement-bg: #2c2c2c;
     --achievement-box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
     --achievement-progress-bg: #8fbcbb;
-    --alert-bg: #292929;
+    --alert-bg: #141B3A;
     --alert-fg: #aaa;
     --alert-gap-color: #444;
     --alert-gap-width: 1px;
@@ -74,7 +74,7 @@
     --button-text-border: none;
     --button-text-border-radius: 5px;
     --button-text-fg: currentColor;
-    --chatbox-message-bg: #363636;
+    --chatbox-message-bg: #0B1026;
     --chatbox-button-fg: #666;
     --chatbox-button-hover-fg: #888;
     --chatbox-users-bg: #2c2c2c;
@@ -236,7 +236,7 @@
     --quick-search-result-year-fg: #888;
     --quick-search-result-border: none;
     --scrollbar-color: #ffffff19;
-    --secondary-nav-bg: #292929;
+    --secondary-nav-bg: #141B3A;
     --secondary-nav-tab-fg: #aaa;
     --secondary-nav-tab-bg: inherit;
     --secondary-nav-tab-active-text-decoration: underline #777 2px;
@@ -270,7 +270,7 @@
     --textarea-padding: 12px;
     --textarea-padding-active: 11px;
     --textarea-padding-hover: 11px;
-    --top-nav-bg: #363636;
+    --top-nav-bg: #0B1026;
     --top-nav-box-shadow: 0 8px 10px 0 rgba(0, 0, 0, .2);
     --top-nav-dropdown-fg: #bbb;
     --top-nav-dropdown-hover-fg: #eee;
